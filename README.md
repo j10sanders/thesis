@@ -3,7 +3,7 @@
 
 AI is poised to take full advantage of crypto.  AI agents won't have bank accounts - [they will have crypto wallets](https://www.bloomberg.com/opinion/articles/2023-06-09/what-s-the-best-use-for-crypto-ai-will-figure-it-out).  This app is a simple implementation of using chatGPT to send transactions, but could easily be extended to any type of on-chain activity, and then further extended to use in an autonomous agent.
 
-##[VIDEO DEMO](https://vimeo.com/841670378?share=copy)
+## [VIDEO DEMO](https://vimeo.com/841670378?share=copy)
 
 
 #### Running the code:
